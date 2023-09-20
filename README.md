@@ -11,9 +11,9 @@ Features of the Task Management:
   
 To run this follow the steps
 * Run the command 
-  ```npm install``` to initialize node modules.
+  ```npm install``` or  ```yarn install``` to initialize node modules.
 * Create a .env file in root directory and add your mongodb url as (MONGODB_URL = mongodb-url).
-* To start the development server ```npm run dev```
+* To start the development server ```npm run dev``` or ```yarn run dev``` .
 * The application will run in default localhost:3000 .
 * To stop the server press ctrl+C, if prompted for termination press Y, if no n.
 
